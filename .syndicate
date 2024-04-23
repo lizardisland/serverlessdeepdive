@@ -1,0 +1,10 @@
+name: serverlessdeepdive
+events:
+- operation: test
+  initiator: richard_whiteway
+  time_start: '2024-04-23T10:55:33Z'
+  time_end: '2024-04-23T10:55:33Z'
+- operation: test
+  initiator: richard_whiteway
+  time_start: '2024-04-23T10:55:07Z'
+  time_end: '2024-04-23T10:55:07Z'
